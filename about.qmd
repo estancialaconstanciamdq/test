@@ -45,29 +45,28 @@ respondidas a través de la observación y el juego, despertando el interés que
 - Interpretación de ecosistemas locales  
 - Observación de interacciones ecológicas  
 
-### 📊 Ciencia y Naturaleza
+<!-- ### 📊 Ciencia y Naturaleza -->
 
-- Registro de biodiversidad en campo  
-- Introducción a la ciencia ciudadana  
-- Uso básico de herramientas de observación  
-- Actividades de clasificación de especies 
-- Conexión con la naturaleza: Fomentamos el respeto y el cuidado por el Ambiente a través de la reflexión y el juego.
-
-### 🥾 Aprendizaje en Senderos
-
-- Caminatas interpretativas por el arboretum  
-- Educación ambiental en contacto directo con el paisaje  
-- Dinámicas de observación guiada  
-- Actividades adaptadas por nivel educativo
-- Recorridos guiados: Acompañados por profesionales especializados que adaptan las explicaciones a la edad y nivel de los estudiantes.
-- Exploración de ecosistemas locales: Reconocimiento de especies arbóreas y análisis de flora y fauna nativas y exóticas.
-- Actividades prácticas y divertidas: Identificación de especies de plantas y árboles, la reproducción de las especies, la observación de aves (residentes y migratorias), la recolección de muestras para laboratorio, trabajo en equipo, ¡y mucho más!
+<!-- - Registro de biodiversidad en campo   -->
+<!-- - Introducción a la ciencia ciudadana   -->
+<!-- - Uso básico de herramientas de observación   -->
+<!-- - Actividades de clasificación de especies  -->
+<!-- - Conexión con la naturaleza: Fomentamos el respeto y el cuidado por el Ambiente a través de la reflexión y el juego. -->
 
 ### 🌿 Beneficios
 - Los estudiantes adquirirán conocimientos de biología, ecología y geografía de manera dinámica y entretenida.
 - Fomentamos el trabajo entre compañeros, despertamos la curiosidad y el pensamiento crítico en un entorno natural.
 - Exploración y aprendizaje al aire libre con programas co-creados con la institución.
 - Caminatas guiadas, observación de flora, actividades interactivas, todo creado para despertar la curiosidad y el amor por el ambiente.
+
+### 🥾 Aprendizaje en Senderos
+
+- Actividades adaptadas por nivel educativo
+- Recorridos guiados: Acompañados por profesionales especializados que adaptan las explicaciones a la edad y nivel de los estudiantes.
+- Exploración de ecosistemas locales: Reconocimiento de especies arbóreas y análisis de flora y fauna nativas y exóticas.
+- Actividades prácticas y divertidas: Identificación de especies de plantas y árboles, la reproducción de las especies, la observación de aves (residentes y migratorias), la recolección de muestras para laboratorio, trabajo en equipo, ¡y mucho más!
+
+
 :::
 
 ---
