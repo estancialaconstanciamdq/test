@@ -631,3 +631,39 @@ li {
   margin: 0 auto 1rem auto;
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
+
+@media (max-width:768px){
+
+  .hero-banner{
+    height:65vh;
+    min-height:500px;
+  }
+
+  .hero-overlay{
+    align-items:flex-start;
+    padding-top:5rem;
+  }
+
+  .hero-content h1{
+    font-size:2.3rem;
+    line-height:1.1;
+  }
+
+  .hero-content h3{
+    font-size:1rem;
+  }
+
+  .hero-logo{
+    width:150px;
+  }
+
+  .lead-text{
+    font-size:1rem;
+    padding-right:0.8rem;
+  }
+
+  .navbar{
+    background:rgba(0,0,0,0.25) !important;
+    backdrop-filter:blur(6px);
+  }
+}
