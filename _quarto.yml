@@ -58,7 +58,7 @@ website:
       # - text: "Visitas Educativas"
       #   href: about.qmd
       
-      - text: "Red de Empresas"
+      - text: " "
         href: red.qmd  
 
 format:
