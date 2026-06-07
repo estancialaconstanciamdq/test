@@ -55,12 +55,6 @@ website:
       - text: "Inicio"
         href: index.qmd
 
-      - text: "Visitas Educativas"
-        href: about.qmd
-      
-      - text: "Red de Empresas "
-        href: red.qmd  
-
 format:
   html:
     theme: litera
