@@ -676,3 +676,16 @@ li {
     backdrop-filter:blur(6px);
   }
 }
+
+.footer-logo {
+  text-align: center;
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(23,56,40,0.15);
+}
+
+.arboretum-footer-logo {
+  width: 180px;
+  max-width: 45%;
+  opacity: 0.95;
+}
